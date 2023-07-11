@@ -1,0 +1,10 @@
+#Wwise gitignore
+*.log
+.cache/* 
+.backup/* 
+*.akd 
+*.validationcache 
+*.wem
+*.wsettings
+*.prof
+Originals/*.cache
