@@ -12,6 +12,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -20,6 +21,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -28,6 +30,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -36,6 +39,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -45,6 +49,7 @@
 										<Value Platform="Android">3</Value>
 										<Value Platform="Mac">3</Value>
 										<Value Platform="iOS">3</Value>
+										<Value Platform="Linux">3</Value>
 										<Value Platform="Windows">3</Value>
 									</ValueList>
 								</Property>
@@ -59,6 +64,9 @@
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{B4A798AF-356E-40F1-B507-C4F178C412FA}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{4AA6472B-1413-4640-82E5-14726B9287F6}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{CBE65C9F-BE62-48A7-9164-C4A6F6FE1098}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
 								</ConversionPluginInfo>
@@ -71,6 +79,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -79,6 +88,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -87,6 +97,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -95,6 +106,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -104,6 +116,7 @@
 										<Value Platform="Android">1</Value>
 										<Value Platform="Mac">1</Value>
 										<Value Platform="iOS">1</Value>
+										<Value Platform="Linux">1</Value>
 										<Value Platform="Windows">1</Value>
 									</ValueList>
 								</Property>
@@ -118,6 +131,9 @@
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{DA0EF9A9-2DC1-4D1D-AAE5-0F918C97D17B}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{DB850177-8D6E-4789-90B5-A2486F35FD21}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{699581A3-D3FE-42C5-979F-268EFC42554F}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
 								</ConversionPluginInfo>
@@ -130,6 +146,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -138,6 +155,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -146,6 +164,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -154,6 +173,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -163,6 +183,7 @@
 										<Value Platform="Android">2</Value>
 										<Value Platform="Mac">2</Value>
 										<Value Platform="iOS">2</Value>
+										<Value Platform="Linux">2</Value>
 										<Value Platform="Windows">2</Value>
 									</ValueList>
 								</Property>
@@ -177,6 +198,9 @@
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{EA7DD3CB-83EB-4A18-9090-150422D68762}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{F697C4BD-5C59-46A5-96A5-81554DD1BDD6}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{995F1B56-A5C4-4FB6-B0DF-C823314D0BF7}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
 								</ConversionPluginInfo>
@@ -189,6 +213,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -197,6 +222,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -205,6 +231,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -213,6 +240,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -221,6 +249,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -235,6 +264,9 @@
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{A5865683-5DC5-48A4-98A1-D1B6293DD827}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{A278FA2F-2F8B-41D7-ACCA-D3C2148C7A86}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{AA7C12B9-B51E-41E7-AD65-83167F644FA4}" PluginName="Vorbis" CompanyID="0" PluginID="4"/>
 								</ConversionPluginInfo>
@@ -247,6 +279,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -255,6 +288,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -263,6 +297,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -271,6 +306,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -279,6 +315,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -305,6 +342,13 @@
 										</PropertyList>
 									</ConversionPlugin>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{57594DC5-B20B-446F-A5D5-C5411963921D}" PluginName="Vorbis" CompanyID="0" PluginID="4">
+										<PropertyList>
+											<Property Name="QualityFactor" Type="Real32" Value="0"/>
+										</PropertyList>
+									</ConversionPlugin>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{64ED3415-2F13-4CA2-973A-515285EE3447}" PluginName="Vorbis" CompanyID="0" PluginID="4">
 										<PropertyList>
@@ -321,6 +365,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -329,6 +374,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -337,6 +383,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -345,6 +392,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -353,6 +401,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -379,6 +428,13 @@
 										</PropertyList>
 									</ConversionPlugin>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{470AB2DB-C898-4B41-9564-32928F1CCF9B}" PluginName="Vorbis" CompanyID="0" PluginID="4">
+										<PropertyList>
+											<Property Name="QualityFactor" Type="Real32" Value="2"/>
+										</PropertyList>
+									</ConversionPlugin>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{C2C3F906-E119-40FE-8879-A8A4A0BA8919}" PluginName="Vorbis" CompanyID="0" PluginID="4">
 										<PropertyList>
@@ -399,6 +455,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -407,6 +464,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -415,6 +473,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -423,6 +482,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -431,6 +491,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -445,6 +506,9 @@
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{74EDD77B-DA0F-49E0-815F-176C3479D46D}" PluginName="PCM" CompanyID="0" PluginID="1"/>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{88F2A48C-19D4-4497-98F7-E2CCF4FC7FF3}" PluginName="PCM" CompanyID="0" PluginID="1"/>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{96F4098C-4BA1-4924-A612-F6DF0EA09BF7}" PluginName="PCM" CompanyID="0" PluginID="1"/>
 								</ConversionPluginInfo>
@@ -457,6 +521,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -465,6 +530,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -473,6 +539,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -481,6 +548,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -490,6 +558,7 @@
 										<Value Platform="Android">1</Value>
 										<Value Platform="Mac">1</Value>
 										<Value Platform="iOS">1</Value>
+										<Value Platform="Linux">1</Value>
 										<Value Platform="Windows">1</Value>
 									</ValueList>
 								</Property>
@@ -504,6 +573,9 @@
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{ABC1C46F-5EF5-42D5-B8DA-ED78E7A38CB9}" PluginName="PCM" CompanyID="0" PluginID="1"/>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{330AA9E8-91C8-4F38-8AB2-7708BC61DCDD}" PluginName="PCM" CompanyID="0" PluginID="1"/>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{40EFB152-E88C-4FE1-8F17-76A615CC7F7C}" PluginName="PCM" CompanyID="0" PluginID="1"/>
 								</ConversionPluginInfo>
@@ -516,6 +588,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -524,6 +597,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -532,6 +606,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -540,6 +615,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -549,6 +625,7 @@
 										<Value Platform="Android">2</Value>
 										<Value Platform="Mac">2</Value>
 										<Value Platform="iOS">2</Value>
+										<Value Platform="Linux">2</Value>
 										<Value Platform="Windows">2</Value>
 									</ValueList>
 								</Property>
@@ -563,6 +640,9 @@
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{ECC46D6F-D345-439F-A4B4-8DAEA22D8369}" PluginName="PCM" CompanyID="0" PluginID="1"/>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{71E9DD94-24E6-44E2-B09F-06A149962F0E}" PluginName="PCM" CompanyID="0" PluginID="1"/>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{17C615A1-5EBD-4696-AFCE-0F7E2F5EB626}" PluginName="PCM" CompanyID="0" PluginID="1"/>
 								</ConversionPluginInfo>
@@ -575,6 +655,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -583,6 +664,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -591,6 +673,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -599,6 +682,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -608,6 +692,7 @@
 										<Value Platform="Android">3</Value>
 										<Value Platform="Mac">3</Value>
 										<Value Platform="iOS">3</Value>
+										<Value Platform="Linux">3</Value>
 										<Value Platform="Windows">3</Value>
 									</ValueList>
 								</Property>
@@ -621,6 +706,9 @@
 								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{29350408-A551-44CC-AA82-F45692AF121A}" PluginName="PCM" CompanyID="0" PluginID="1"/>
+								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{B030209F-620E-42A4-A9B7-0CB3DC8D0974}" PluginName="PCM" CompanyID="0" PluginID="1"/>
 								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{EA8DD688-C118-44E2-B4B1-F8132257EFB2}" PluginName="PCM" CompanyID="0" PluginID="1"/>
@@ -638,6 +726,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -646,6 +735,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -654,6 +744,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -662,6 +753,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -670,6 +762,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -684,6 +777,9 @@
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{425C6E28-1F87-4E94-8031-E7AB83F0873C}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{C9991CE7-9FBC-47CB-B155-B0D0E042596A}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{19A57630-51F7-4FF1-9CFE-F5EC56B590CB}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
 								</ConversionPluginInfo>
@@ -696,6 +792,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -704,6 +801,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -712,6 +810,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -720,6 +819,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -729,6 +829,7 @@
 										<Value Platform="Android">1</Value>
 										<Value Platform="Mac">1</Value>
 										<Value Platform="iOS">1</Value>
+										<Value Platform="Linux">1</Value>
 										<Value Platform="Windows">1</Value>
 									</ValueList>
 								</Property>
@@ -743,6 +844,9 @@
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{2CB6DFEC-6431-4619-87B9-1157413993C1}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{78615272-8356-4916-A57F-1B5289A7EC87}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{02111B5F-6353-449A-8EDA-6B14777CDDE2}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
 								</ConversionPluginInfo>
@@ -755,6 +859,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -763,6 +868,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -771,6 +877,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -779,6 +886,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -788,6 +896,7 @@
 										<Value Platform="Android">2</Value>
 										<Value Platform="Mac">2</Value>
 										<Value Platform="iOS">2</Value>
+										<Value Platform="Linux">2</Value>
 										<Value Platform="Windows">2</Value>
 									</ValueList>
 								</Property>
@@ -802,6 +911,9 @@
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{AB51CE5C-5AAC-4B7C-AB46-C3CD2169F736}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
 								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{A4855895-3FE0-4F33-89BF-24DC51B1D8FC}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
+								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{40E295B0-4773-4093-8A32-79679A23667A}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
 								</ConversionPluginInfo>
@@ -814,6 +926,7 @@
 										<Value Platform="Android">4</Value>
 										<Value Platform="Mac">4</Value>
 										<Value Platform="iOS">4</Value>
+										<Value Platform="Linux">4</Value>
 										<Value Platform="Windows">4</Value>
 									</ValueList>
 								</Property>
@@ -822,6 +935,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -830,6 +944,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -838,6 +953,7 @@
 										<Value Platform="Android">0</Value>
 										<Value Platform="Mac">0</Value>
 										<Value Platform="iOS">0</Value>
+										<Value Platform="Linux">0</Value>
 										<Value Platform="Windows">0</Value>
 									</ValueList>
 								</Property>
@@ -847,6 +963,7 @@
 										<Value Platform="Android">3</Value>
 										<Value Platform="Mac">3</Value>
 										<Value Platform="iOS">3</Value>
+										<Value Platform="Linux">3</Value>
 										<Value Platform="Windows">3</Value>
 									</ValueList>
 								</Property>
@@ -860,6 +977,9 @@
 								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="iOS">
 									<ConversionPlugin Name="" ID="{FCFA1411-1E07-4EA6-98FE-A64AC0805A17}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
+								</ConversionPluginInfo>
+								<ConversionPluginInfo Platform="Linux">
+									<ConversionPlugin Name="" ID="{EF1425C9-4AD7-4571-9F0B-6AC76084C3F8}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
 								</ConversionPluginInfo>
 								<ConversionPluginInfo Platform="Windows">
 									<ConversionPlugin Name="" ID="{0CE85CB1-751E-42B4-8E38-C6A7C240576F}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>

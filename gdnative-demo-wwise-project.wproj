@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="Project" SchemaVersion="110" WwiseVersion="v2022.1.4" WwiseBuild="8202">
+<WwiseDocument Type="Project" SchemaVersion="110" WwiseVersion="v2022.1.6" WwiseBuild="8263">
 	<ProjectInfo>
 		<Project Name="gdnative-demo-wwise-project" ID="{104C7B4C-64D6-4500-880B-01CEDF3EA351}">
 			<Platforms>
 				<Platform Name="Android" ReferencePlatform="Android" ID="{EDDC17A8-A570-4115-B37F-39653139C820}"/>
 				<Platform Name="iOS" ReferencePlatform="iOS" ID="{B1CEDA5D-3A84-44F2-A022-39B0D5906A41}"/>
+				<Platform Name="Linux" ReferencePlatform="Linux" ID="{C6A0277B-65A5-4670-86D8-19589E70975C}"/>
 				<Platform Name="Mac" ReferencePlatform="Mac" ID="{E2838434-9F35-449F-8438-93F7C7A7DD96}"/>
 				<Platform Name="Windows" ReferencePlatform="Windows" ID="{C3DB882E-6877-4C2F-9B49-FD4E73A64C5C}"/>
 			</Platforms>
@@ -19,38 +20,42 @@
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
 						<Value Platform="Android"></Value>
-						<Value Platform="Mac">Y:\Desktop\backup\realworkdir\wwise-godot-integration\wwise-gdnative\gdnative-demo-wwise-project\ExternalSources\mac.wsources</Value>
+						<Value Platform="Mac">ExternalSources\mac.wsources</Value>
 						<Value Platform="iOS"></Value>
+						<Value Platform="Linux"></Value>
 						<Value Platform="Windows">ExternalSources\windows.wsources</Value>
 					</ValueList>
 				</Property>
 				<Property Name="ExternalSourcesOutputPath" Type="string">
 					<ValueList>
-						<Value Platform="Android">..\gdnative-demo\wwise\GeneratedSoundBanks\Android</Value>
-						<Value Platform="Mac">..\gdnative-demo\wwise\GeneratedSoundBanks\Mac</Value>
-						<Value Platform="iOS">..\gdnative-demo\wwise\GeneratedSoundBanks\iOS</Value>
-						<Value Platform="Windows">..\gdnative-demo\wwise\GeneratedSoundBanks\Windows</Value>
+						<Value Platform="Android">..\GeneratedSoundBanks\Android</Value>
+						<Value Platform="Mac">..\GeneratedSoundBanks\Mac</Value>
+						<Value Platform="iOS">..\GeneratedSoundBanks\iOS</Value>
+						<Value Platform="Linux">..\GeneratedSoundBanks\Linux</Value>
+						<Value Platform="Windows">..\GeneratedSoundBanks\Windows</Value>
 					</ValueList>
 				</Property>
+				<Property Name="GenerateSoundBankJSON" Type="bool" Value="True"/>
 				<Property Name="GlobalVoiceInstancesLimit" Type="int16">
 					<ValueList>
 						<Value Platform="Android">256</Value>
 						<Value Platform="Mac">256</Value>
 						<Value Platform="iOS">256</Value>
+						<Value Platform="Linux">256</Value>
 						<Value Platform="Windows">256</Value>
 					</ValueList>
 				</Property>
 				<Property Name="LicenseKey" Type="string" Value="PHByb2plY3QgaWQ9Ijg3MTYiIG1hc2s9IlRXVU45MzUxIiBlbmM9IjAiPjxsaWNlbnNlIGlkPSIxIiBuYW1lPSJXd2lzZSIgdHlwZT0iMyIgcGxhdGZvcm1zPSIyLDMsNCwxMCwxMywxNCIgZXhwaXJlcz0iMjAyMC0xMC0wMSIgIC8+PGxpY2Vuc2UgaWQ9IjIyIiBuYW1lPSJMZXZlbCBBIExpY2Vuc2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMiwzLDQsMTAsMTMsMTQiIGV4cGlyZXM9IjIwMjAtMTAtMDEiICAvPjxsaWNlbnNlIGlkPSIyMSIgbmFtZT0iTWFpbnRlbmFuY2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iMiwzLDQsMTAsMTMsMTQiIGV4cGlyZXM9IjIwMjAtMTAtMDEiICAvPjxsaWNlbnNlIGlkPSIyNSIgbmFtZT0iQWxsIFd3aXNlIFBsdWctSW5zIiB0eXBlPSIzIiAgZXhwaXJlcz0iMjAyMC0xMC0wMSIgIC8+PC9wcm9qZWN0Pg==|yZ9WIoXzp8lxxL1K4ieQ2HJS7FDurTEZxO6fTn/wCe08pgpf4+7DAGhBBDpL2kLD6Rq6ukmr0QV2Dsb0Etl3yvEeZq9Vi8uH7T2pebj5zPGQUgJl6EIdYRuQr/G5eYguL4vC95qiJ0iBCbWB7XU+gU36X5UDpYHGROg93jeVP/OkF4rDB7Bf8QDfz9tgQwnRl7sTOlr0ztqAitaTFQTLojJCCZ+YHAN5zVxOR++6IFyv12BzhYBHQmU1pHgU1jd7WyEFZqivI1a3PFhnADZLord5n2MSpUOMTrI3B4LF/2xfV24X6xnna48bfE8gST13oe96riUND8UuEFnYrScQcQ=="/>
 				<Property Name="RemoveUnusedGeneratedFiles" Type="bool" Value="False"/>
 				<Property Name="SoundBankGenerateHeaderFile" Type="bool" Value="True"/>
-				<Property Name="SoundBankHeaderFilePath" Type="string" Value="..\gdnative-demo\wwise\GeneratedSoundBanks"/>
-				<Property Name="SoundBankIncludeSoundbankNamesStrings" Type="bool" Value="False"/>
+				<Property Name="SoundBankHeaderFilePath" Type="string" Value="..\GeneratedSoundBanks"/>
 				<Property Name="SoundBankPaths" Type="string">
 					<ValueList>
-						<Value Platform="Android">..\gdnative-demo\wwise\GeneratedSoundBanks\Android\</Value>
-						<Value Platform="Mac">..\gdnative-demo\wwise\GeneratedSoundBanks\Mac\</Value>
-						<Value Platform="iOS">..\gdnative-demo\wwise\GeneratedSoundBanks\iOS\</Value>
-						<Value Platform="Windows">..\gdnative-demo\wwise\GeneratedSoundBanks\Windows\</Value>
+						<Value Platform="Android">..\GeneratedSoundBanks\Android\</Value>
+						<Value Platform="Mac">..\GeneratedSoundBanks\Mac\</Value>
+						<Value Platform="iOS">..\GeneratedSoundBanks\iOS\</Value>
+						<Value Platform="Linux">..\GeneratedSoundBanks\Linux\</Value>
+						<Value Platform="Windows">..\GeneratedSoundBanks\Windows\</Value>
 					</ValueList>
 				</Property>
 				<Property Name="SoundBankPostGenerateCustomCmdDescription" Type="string">
@@ -58,6 +63,7 @@
 						<Value Platform="Android">Copy Streamed Files</Value>
 						<Value Platform="Mac">Copy Streamed Files</Value>
 						<Value Platform="iOS">Copy Streamed Files</Value>
+						<Value Platform="Linux">Copy Streamed Files</Value>
 						<Value Platform="Windows">Copy Streamed Files</Value>
 					</ValueList>
 				</Property>
@@ -66,6 +72,7 @@
 						<Value Platform="Android"></Value>
 						<Value Platform="Mac"></Value>
 						<Value Platform="iOS"></Value>
+						<Value Platform="Linux"></Value>
 						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
@@ -74,6 +81,7 @@
 						<Value Platform="Android"></Value>
 						<Value Platform="Mac"></Value>
 						<Value Platform="iOS"></Value>
+						<Value Platform="Linux"></Value>
 						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
@@ -82,6 +90,7 @@
 						<Value Platform="Android"></Value>
 						<Value Platform="Mac"></Value>
 						<Value Platform="iOS"></Value>
+						<Value Platform="Linux"></Value>
 						<Value Platform="Windows"></Value>
 					</ValueList>
 				</Property>
@@ -90,6 +99,7 @@
 						<Value Platform="Android">-80</Value>
 						<Value Platform="Mac">-80</Value>
 						<Value Platform="iOS">-80</Value>
+						<Value Platform="Linux">-80</Value>
 						<Value Platform="Windows">-80</Value>
 					</ValueList>
 				</Property>
@@ -9290,7 +9300,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="SoundSeed Air Wind" PluginType="2" CompanyID="0" PluginID="119">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="119">
 					<PropertyList>
 						<Property Name="AttenuationRollOff" Type="Real32">
 							<ValueList>
@@ -9449,7 +9459,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="SoundSeed Air Woosh" PluginType="2" CompanyID="0" PluginID="120">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="120">
 					<PropertyList>
 						<Property Name="AttenuationRollOff" Type="Real32">
 							<ValueList>
@@ -9583,7 +9593,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Deflector" PluginType="0" CompanyID="0" PluginID="121">
+				<SharedPropertyList ClassName="" PluginType="0" CompanyID="0" PluginID="121">
 					<PropertyList>
 						<Property Name="Frequency" Type="Real32">
 							<ValueList>
@@ -9612,7 +9622,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Deflector" PluginType="0" CompanyID="0" PluginID="122">
+				<SharedPropertyList ClassName="" PluginType="0" CompanyID="0" PluginID="122">
 					<PropertyList>
 						<Property Name="Anchor" Type="bool">
 							<ValueList>
@@ -9944,7 +9954,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Convolution Reverb" PluginType="3" CompanyID="0" PluginID="127">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="0" PluginID="127">
 					<PropertyList>
 						<Property Name="AlgoTypeSelect" Type="int32">
 							<ValueList>
@@ -10839,7 +10849,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Reflect" PluginType="3" CompanyID="0" PluginID="171">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="0" PluginID="171">
 					<PropertyList>
 						<Property Name="BaseTextureFrequency" Type="Real32">
 							<ValueList>
@@ -12165,7 +12175,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Impacter" PluginType="2" CompanyID="0" PluginID="184">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="184">
 					<PropertyList>
 						<Property Name="Color" Type="int16">
 							<ValueList>
@@ -12298,7 +12308,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Mastering Suite" PluginType="3" CompanyID="0" PluginID="186">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="0" PluginID="186">
 					<PropertyList>
 						<Property Name="Color" Type="int16">
 							<ValueList>
@@ -12843,7 +12853,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Motion Generator (Deprecated)" PluginType="2" CompanyID="0" PluginID="405">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="405">
 					<PropertyList>
 						<Property Name="AttackTime" Type="Real32">
 							<ValueList>
@@ -12902,7 +12912,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Motion Source" PluginType="2" CompanyID="0" PluginID="409">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="409">
 					<PropertyList>
 						<Property Name="Channel1" Type="int16">
 							<ValueList>
@@ -13011,7 +13021,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Motion" PluginType="7" CompanyID="0" PluginID="507">
+				<SharedPropertyList ClassName="" PluginType="7" CompanyID="0" PluginID="507">
 					<PropertyList>
 						<Property Name="BypassEffect" Type="bool">
 							<ValueList>
@@ -13182,7 +13192,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Auro Headphone" PluginType="3" CompanyID="263" PluginID="1100">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="263" PluginID="1100">
 					<PropertyList>
 						<Property Name="Bypass" Type="bool">
 							<ValueList>
