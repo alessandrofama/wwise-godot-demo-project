@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{F86D44CF-30AB-4187-A660-DA289EDCAD5C}" SchemaVersion="110">
+<WwiseDocument Type="WorkUnit" ID="{F86D44CF-30AB-4187-A660-DA289EDCAD5C}" SchemaVersion="119">
 	<AudioObjects>
 		<WorkUnit Name="Alex" ID="{F86D44CF-30AB-4187-A660-DA289EDCAD5C}" PersistMode="Standalone">
 			<ChildrenList>
 				<SwitchContainer Name="Footsteps" ID="{65C5D4B5-4D15-46F0-8D63-A7A0F6E4BC32}" ShortID="364438213">
 					<ReferenceList>
-						<Reference Name="Conversion">
+						<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 						</Reference>
-						<Reference Name="DefaultSwitchOrState">
+						<Reference Name="DefaultSwitchOrState" CompanyID="4095" PluginID="65535" PluginType="15">
 							<ObjectRef Name="Wood" ID="{F26D1B5E-6FBC-4841-A415-84A3D48C25E5}" WorkUnitID="{E77CF637-08D3-4C1C-B696-6F1FB0DEC295}"/>
 						</Reference>
-						<Reference Name="OutputBus">
+						<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 						</Reference>
-						<Reference Name="SwitchGroupOrStateGroup">
+						<Reference Name="SwitchGroupOrStateGroup" CompanyID="4095" PluginID="65535" PluginType="15">
 							<ObjectRef Name="FootstepsSwitch" ID="{F25E34F3-49A1-4B70-B859-984AB3818934}" WorkUnitID="{E77CF637-08D3-4C1C-B696-6F1FB0DEC295}"/>
 						</Reference>
 					</ReferenceList>
@@ -28,20 +28,20 @@
 								</Property>
 							</PropertyList>
 							<ReferenceList>
-								<Reference Name="Conversion">
+								<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 								</Reference>
-								<Reference Name="OutputBus">
+								<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="otto_footsteps_grass_1" ID="{A1B15C63-917E-41D1-BA9D-200DA688F23E}" ShortID="826153989">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -60,10 +60,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_grass_2" ID="{080C1664-F724-4216-8146-B22F19F8D9B4}" ShortID="74437261">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -82,10 +82,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_grass_3" ID="{97D09D6A-4EFB-47FC-8A19-F9B33F292585}" ShortID="733817785">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -104,10 +104,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_grass_4" ID="{225F6E12-D7B9-4D9C-8FD2-9E44EAD0BFEE}" ShortID="1062103093">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -135,20 +135,20 @@
 								</Property>
 							</PropertyList>
 							<ReferenceList>
-								<Reference Name="Conversion">
+								<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 								</Reference>
-								<Reference Name="OutputBus">
+								<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="otto_footsteps_water_1" ID="{5836DACF-B261-46EF-B133-D456123D73F6}" ShortID="90246917">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -167,10 +167,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_water_2" ID="{13F45CE9-CAD6-47F0-A58D-63F183FC1316}" ShortID="44141647">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -189,10 +189,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_water_3" ID="{111CE5B6-4729-470F-9AB1-BFEA3CD99E5B}" ShortID="526013470">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -211,10 +211,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_water_4" ID="{AB262BEA-E263-4B3F-BCEE-4E4A3F2C6869}" ShortID="54581897">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -242,20 +242,20 @@
 								</Property>
 							</PropertyList>
 							<ReferenceList>
-								<Reference Name="Conversion">
+								<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 								</Reference>
-								<Reference Name="OutputBus">
+								<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="otto_footsteps_gravel_1" ID="{A8C1E131-0234-4008-9834-A13A462BA45C}" ShortID="451847666">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -274,10 +274,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_gravel_2" ID="{09302A52-19FA-4080-AB5B-6EEDCA6041D4}" ShortID="211186517">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -296,10 +296,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_gravel_3" ID="{B779A9EA-4080-4A14-AD57-659C2684825E}" ShortID="69067373">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -318,10 +318,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_gravel_4" ID="{13742B41-A313-48A5-916D-BB8ADEF415E3}" ShortID="357956304">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -340,10 +340,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_gravel_5" ID="{D6832D1E-2025-4CF1-BD19-30B4E26BD818}" ShortID="798384410">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -371,20 +371,20 @@
 								</Property>
 							</PropertyList>
 							<ReferenceList>
-								<Reference Name="Conversion">
+								<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 								</Reference>
-								<Reference Name="OutputBus">
+								<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
 								<Sound Name="otto_footsteps_wood_1" ID="{727B2C30-340E-4D64-ADB6-FCC6BAA8A574}" ShortID="905322853">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -403,10 +403,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_wood_2" ID="{F393BBB0-CBE3-46C2-9E27-6ADAE4CD7868}" ShortID="696501084">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -425,10 +425,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_wood_3" ID="{ACD2F83C-9C27-4930-8722-EFD5F61C7358}" ShortID="635747960">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -447,10 +447,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_wood_4" ID="{DE36DE34-C72D-40DB-995C-72A63EDF6586}" ShortID="698004381">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -469,10 +469,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_wood_5" ID="{126CB8BA-6C3A-49A3-89FC-9A4F9CADE9CA}" ShortID="183908533">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -491,10 +491,10 @@
 								</Sound>
 								<Sound Name="otto_footsteps_wood_6" ID="{FE0879BB-9134-4C1F-87B0-C8581410D4C8}" ShortID="627918225">
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -749,10 +749,10 @@
 								</Attenuation>
 							</Custom>
 						</Reference>
-						<Reference Name="Conversion">
+						<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 						</Reference>
-						<Reference Name="OutputBus">
+						<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 							<ObjectRef Name="ObjectBus" ID="{55A3DDAD-81DB-4E01-8A2E-D13526629BA2}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 						</Reference>
 					</ReferenceList>
@@ -771,10 +771,10 @@
 								</Property>
 							</PropertyList>
 							<ReferenceList>
-								<Reference Name="Conversion">
+								<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 								</Reference>
-								<Reference Name="OutputBus">
+								<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 								</Reference>
 							</ReferenceList>
@@ -788,10 +788,10 @@
 										</Property>
 									</PropertyList>
 									<ReferenceList>
-										<Reference Name="Conversion">
+										<Reference Name="Conversion" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B5D06FC6-20AC-4570-BC56-F30998705AA9}"/>
 										</Reference>
-										<Reference Name="OutputBus">
+										<Reference Name="OutputBus" CompanyID="4095" PluginID="65535" PluginType="15">
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3FE3D261-2E4D-4287-95DD-8B4DF14D5A58}"/>
 										</Reference>
 									</ReferenceList>
@@ -809,9 +809,13 @@
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
-							<Playlist>
-								<ItemRef Name="Marker_Test_001" ID="{93724415-F357-4C32-B5B8-5C87E9CF1516}"/>
-							</Playlist>
+							<ObjectLists>
+								<ObjectList Name="Playlist">
+									<Reference CompanyID="4095" PluginID="65535" PluginType="15">
+										<ObjectRef Name="Marker_Test_001" ID="{93724415-F357-4C32-B5B8-5C87E9CF1516}" WorkUnitID="{F86D44CF-30AB-4187-A660-DA289EDCAD5C}"/>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
 						</RandomSequenceContainer>
 					</ChildrenList>
 				</ActorMixer>

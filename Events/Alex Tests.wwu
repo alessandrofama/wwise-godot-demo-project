@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{A7F31287-7301-4738-8650-19044FD81678}" SchemaVersion="110">
+<WwiseDocument Type="WorkUnit" ID="{A7F31287-7301-4738-8650-19044FD81678}" SchemaVersion="119">
 	<Events>
 		<WorkUnit Name="Alex Tests" ID="{A7F31287-7301-4738-8650-19044FD81678}" PersistMode="Standalone">
 			<ChildrenList>
@@ -7,7 +7,7 @@
 					<ChildrenList>
 						<Action Name="" ID="{32C72327-0A97-4389-8756-8F07F2FEAF0F}" ShortID="129185782">
 							<ReferenceList>
-								<Reference Name="Target">
+								<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Music_Test_1" ID="{0E619955-125D-4006-B2DD-C1987E84A7D4}" WorkUnitID="{7D5184BC-D414-4812-9C0D-76A9619A1055}"/>
 								</Reference>
 							</ReferenceList>
@@ -18,7 +18,7 @@
 					<ChildrenList>
 						<Action Name="" ID="{68A1015A-C409-4CB5-B13C-6ECE6D41934D}" ShortID="695239070">
 							<ReferenceList>
-								<Reference Name="Target">
+								<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Music_Test_2D" ID="{EBB052EA-1FDB-4FD8-9304-0A23068988CA}" WorkUnitID="{7D5184BC-D414-4812-9C0D-76A9619A1055}"/>
 								</Reference>
 							</ReferenceList>
@@ -29,7 +29,7 @@
 					<ChildrenList>
 						<Action Name="" ID="{55DF2A2C-8D7A-43EF-BBB1-27D7512539FB}" ShortID="621986100">
 							<ReferenceList>
-								<Reference Name="Target">
+								<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Footsteps" ID="{65C5D4B5-4D15-46F0-8D63-A7A0F6E4BC32}" WorkUnitID="{F86D44CF-30AB-4187-A660-DA289EDCAD5C}"/>
 								</Reference>
 							</ReferenceList>
@@ -40,7 +40,7 @@
 					<ChildrenList>
 						<Action Name="" ID="{892FE610-6E14-47EF-A564-91368E0DDE8C}" ShortID="609593514">
 							<ReferenceList>
-								<Reference Name="Target">
+								<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="external_source_obj" ID="{519A07F2-C0C1-4EC1-A159-BFA6284313AE}" WorkUnitID="{726C048B-AC31-42C0-BD57-7D02515BEE4E}"/>
 								</Reference>
 							</ReferenceList>
@@ -51,7 +51,7 @@
 					<ChildrenList>
 						<Action Name="" ID="{51188685-4A15-4F95-8EE2-F5E17B6CF283}" ShortID="464863692">
 							<ReferenceList>
-								<Reference Name="Target">
+								<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="piano-100" ID="{39CBA4BD-F923-475C-870F-5DCC2A8E3B42}" WorkUnitID="{7D5184BC-D414-4812-9C0D-76A9619A1055}"/>
 								</Reference>
 							</ReferenceList>
@@ -62,7 +62,7 @@
 					<ChildrenList>
 						<Action Name="" ID="{FC4D91EE-DD76-4C87-973A-712EFA4D152E}" ShortID="312207700">
 							<ReferenceList>
-								<Reference Name="Target">
+								<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="Music_Test_01_Long_Attenuation" ID="{12FCACD4-0C10-4487-9D70-D94981D367A8}" WorkUnitID="{7D5184BC-D414-4812-9C0D-76A9619A1055}"/>
 								</Reference>
 							</ReferenceList>
@@ -73,7 +73,7 @@
 					<ChildrenList>
 						<Action Name="" ID="{5F7A94A9-BEA1-4A09-A7D9-A1CC6D42ADBB}" ShortID="48048038">
 							<ReferenceList>
-								<Reference Name="Target">
+								<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="GeometryDemo" ID="{F321ACEA-FDA9-40C8-B666-7E6B68D311A7}" WorkUnitID="{F86D44CF-30AB-4187-A660-DA289EDCAD5C}"/>
 								</Reference>
 							</ReferenceList>
@@ -84,7 +84,7 @@
 					<ChildrenList>
 						<Action Name="" ID="{98B4985E-4F48-470D-8B4B-661E83F509C8}" ShortID="219578658">
 							<ReferenceList>
-								<Reference Name="Target">
+								<Reference Name="Target" CompanyID="4095" PluginID="65535" PluginType="15">
 									<ObjectRef Name="random_seed_test" ID="{57FAD19B-B543-4009-8E8D-3D3D3B2E51AC}" WorkUnitID="{01188D32-63D2-412D-B6A7-A752082B8FD3}"/>
 								</Reference>
 							</ReferenceList>
